@@ -2,8 +2,7 @@
 
 ## 📓 List of Questions for a Fireside Chat on the Future of Fintech and the Impact of GenAI
 
-![GitHub License](https://img.shields.io/github/license/vinitshahdeo/FinTech-GenAI-Fireside-Chat?logo=github) [![Vinit Shahdeo on Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=flat&logo=substack&logoColor=FF6719)](https://vinitshahdeo.substack.com/p/fintech-fireside-chat) ![Share on Twitter (X)](https://twitter.com/intent/tweet?text=List%20of%20Questions%20for%20a%20Fireside%20Chat%20on%20the%20Future%20of%20Fintech%20and%20the%20Impact%20of%20GenAI&url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2FFinTech-GenAI-Fireside-Chat)
-
+![GitHub License](https://img.shields.io/github/license/vinitshahdeo/FinTech-GenAI-Fireside-Chat?logo=github) [![Vinit Shahdeo on Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=flat&logo=substack&logoColor=FF6719)](https://vinitshahdeo.substack.com/p/fintech-fireside-chat) [![Share on Twitter (X)](https://img.shields.io/twitter/url?url=https%3A%2F%2Fvinitshahdeo.substack.com%2Fp%2Ffintech-fireside-chat)](https://twitter.com/intent/tweet?text=List%20of%20Questions%20for%20a%20Fireside%20Chat%20on%20the%20Future%20of%20Fintech%20and%20the%20Impact%20of%20GenAI&url=https%3A%2F%2Fgithub.com%2Fvinitshahdeo%2FFinTech-GenAI-Fireside-Chat)
 
 
 I recently moderated a fireside chat on fintech at [Novo Tech Meetup 1.0](https://lu.ma/ktjderm7). The discussion focused on the future of fintech and the impact of generative AI (GenAI). If you're planning to host a similar event, the following questions may be helpful:
