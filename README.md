@@ -2,6 +2,10 @@
 
 ## 📓 List of Questions for a Fireside Chat on the Future of Fintech and the Impact of GenAI
 
+![GitHub License](https://img.shields.io/github/license/vinitshahdeo/FinTech-GenAI-Fireside-Chat?logo=github) [![Vinit Shahdeo on Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=flat&logo=substack&logoColor=FF6719)](https://vinitshahdeo.substack.com/p/fintech-fireside-chat) ![Share on Twitter (X)](https://img.shields.io/twitter/url?url=https%3A%2F%2Fvinitshahdeo.substack.com%2Fp%2Ffintech-fireside-chat)
+
+
+
 I recently moderated a fireside chat on fintech at [Novo Tech Meetup 1.0](https://lu.ma/ktjderm7). The discussion focused on the future of fintech and the impact of generative AI (GenAI). If you're planning to host a similar event, the following questions may be helpful:
 
 The questions below cover a wide range of topics related to **the future of fintech and GenAI**. They can be used as a starting point for your fireside chat, or you can adapt them to fit your specific needs.
