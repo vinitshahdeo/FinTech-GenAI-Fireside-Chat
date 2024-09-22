@@ -33,7 +33,7 @@ How do you foresee the future of cryptocurrency and blockchain in fintech, both 
 ### 🛍️ The Rise of Buy Now, Pay Later (BNPL)
 Buy Now, Pay Later (BNPL) has gained immense popularity globally. In India, apps like LazyPay and Simple are prominent examples. What challenges and opportunities do you see in this space? — Shikhar
 
-### 🔗 Open Banking API Integrations
+### ⚙️ Open Banking API Integrations
 Open banking API integrations seem to be game changers in the fintech industry. What is your perspective on this?
 
 ### 🏦 The Future of Neo-Banks
@@ -42,7 +42,7 @@ Do you think neo banks in India and the USA will eventually replace traditional 
 ### 🧑‍💼 Talent in Fintech: Skills and Hiring
 As fintech companies continue to grow, the demand for specialized talent also increases. What skills are most in demand in the fintech industry today? How can companies ensure they attract and retain top talent, and what role does ongoing education and upskilling play in this sector?
 
-## Thank you
+## 🙏 Thank you
 
 Catch the key highlights from our Fireside Chat on Fintech at **Novo Tech Meetup 1.0** right here on [Substack](https://vinitshahdeo.substack.com/p/fintech-fireside-chat).
 
